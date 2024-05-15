@@ -53,10 +53,10 @@ MoveFit은 홈트레이닝 시 주요 웨이트 트레이닝 자세를 촬영하
    - MoveNet a5 모델을 이용한 운동 종류 판별 및 데이터 분석
 
 ## 🤔 APP 동작 논리
-![Main Screen](./git-images/git-app-submit.png)
+![App Submit](./git-images/git-app-submit.png)
 
 ## ✍️ 프로젝트 전체 요약
-![Main Screen](./git-images/git-all-submit.png)
+![All Submit](./git-images/git-all-submit.png)
 
 
 ## ⚠️ 어려웠던 부분과 해결 과정
