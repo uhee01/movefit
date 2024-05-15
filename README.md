@@ -33,10 +33,10 @@ MoveFit은 홈트레이닝 시 주요 웨이트 트레이닝 자세를 촬영하
 
 ### 🌐 메인 화면
 ![Main Screen](./git-images/git-main.png)
+![Main Screen](./git-images/git-main02.png)
 
 ### 🔍 디테일 화면
 ![Detail Screen](./git-images/git-detail.png)
-![Board Screen](./git-images/git-board.png)
 
 ## ⚙️ 개발 과정 흐름
 1. **기획 및 설계:**
@@ -51,6 +51,13 @@ MoveFit은 홈트레이닝 시 주요 웨이트 트레이닝 자세를 촬영하
 4. **AI 모델 통합:**
    - BlazePose 모델을 이용한 실시간 관절 추적
    - MoveNet a5 모델을 이용한 운동 종류 판별 및 데이터 분석
+
+## 🤔 APP 동작 논리
+![Main Screen](./git-images/git-app-submit.png)
+
+## ✍️ 프로젝트 전체 요약
+![Main Screen](./git-images/git-all-submit.png)
+
 
 ## ⚠️ 어려웠던 부분과 해결 과정
 
