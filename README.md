@@ -35,12 +35,8 @@ MoveFit은 홈트레이닝 시 주요 웨이트 트레이닝 자세를 촬영하
 <br>
 
 ## 📸 스크린샷
-
-### 🌐 메인 화면
 ![Main Screen](./git-images/git-main.png)
 ![Main Screen](./git-images/git-main02.png)
-
-### 🔍 디테일 화면
 ![Detail Screen](./git-images/git-detail.png)
 
 <br>
